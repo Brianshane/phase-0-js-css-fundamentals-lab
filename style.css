@@ -1,0 +1,50 @@
+.navbar {
+    background-color: #333;
+    font-size: 1.2em;
+    padding: 1em;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+
+}
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.navbar li{
+    display: inline;
+    margin-right: 0 1em;
+}
+.navbar a {
+    color: #fff;
+}
+
+.main-content {
+    padding-top:5em;
+    padding: 2em 1em;
+    align-text: center;
+}
+#home h1{
+    font: size 2.5em;
+    margin-bottom:0.5em;
+  
+}
+#home p{
+    font-size: 1.2em; 
+    color: #666;
+}
+
+
+
+#footer{
+   background-color:#222 ;
+   color:#fff;
+   padding: 2em;
+   text-align: center;
+   position:relative;
+   bottom:0;
+   width:100%;
+}
